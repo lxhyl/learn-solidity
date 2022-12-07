@@ -6,7 +6,7 @@ import "forge-std/console.sol";
 
 import {Ecrecover} from "../src/sign/ecrecover.sol";
 
-// get fake address. can use this fake address send transaction
+// get fake address. can use this address send transaction
 // https://weka.medium.com/how-to-send-ether-to-11-440-people-187e332566b7
 
 /**
